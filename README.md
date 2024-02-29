@@ -1,21 +1,31 @@
-# Data-Driven Decisions: Monte Carlo Analysis for Technical Communications
+# Ryan C. Cooper's demo course files
+> __Note__: This Open Educational Resource was built with
+[Jupyter-Book](https://jupyterbook.org) __Check it out -->__ [![Jupyter Book
+Badge](images/badge.svg)](https://cooperrc.github.io/computational-mechanics/README.html)
 
-This course is designed to build expertise in two key areas:
-- Monte Carlo 
-- Technical Writing
 
-Engineering practice takes many forms, but at its core engineers are
-defined by how they _innovate using quantifiable methods_. 
+This repository holds starter files to build a course website using:
+- [Jupter-Book](https://jupyterbook.org/en/stable/intro.html)
+- [GitHub-Pages](https://jupyterbook.org/en/stable/start/publish.html#publish-your-book-online-with-github-pages)
+- [GitHub actions](https://github.com/features/actions)
 
-Monte Carlo is a skillset that uses random numbers to create
-computational experiments. Monte Carlo experiments can quantify and predict a
-number of outcomes e.g. deterministic parameters such as areas and
-columes, probability of failure, propagation of error. 
+Jupyter-Book handles the conversion of markdown and Jupyter notebooks to
+html web pages. 
 
-Technical writing is a crucial skill to communicate innovations,
-predictions, and results. Technical communication is the delivery of
-technical information to readers in a manner that is adapted to their
-needs, level of understanding, and background.  The ability to
-"translate" technical information to nonspecialists is a key skill to
-any technical communicator. 
+GitHub-pages creates a URL and serves your HTML website.
+
+GitHub actions updates the website each time a new commit is pushed to
+`main`.
+
+## License
+
+All content is under Creative Commons Attribution [CC-BY
+4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt), and all [code
+is under BSD-3
+clause](https://github.uconn.edu/rcc02007/Computational_Mechanics/LICENSE). We are
+happy if you re-use the content in any way!
+
+[![License: CC BY
+4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 

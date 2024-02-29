@@ -1,63 +1,26 @@
-# Syllabus - Data Driven Decisions
+# Syllabus - Sample Course
 
-## Monte Carlo Analysis for Technical Communications
-- **GitHub page:** [cooperrc/data-driven-decisions](https://github.com/cooperrc/data-driven-decisions)
-- **ME3255 - Discussions**: [GitHub Discussion](https://github.com/cooperrc/data-driven-decisions/discussions)
+## Title
 
-**Course Description**: This course explores the integration of Monte Carlo
-analysis—a powerful probabilistic modeling technique—with technical
-communication. Students will learn how to effectively communicate results from
-Monte Carlo methods for both technical and non-technical audiences. Topics
-covered include probability modeling, Monte Carlo simulation, statistical
-analysis, and the creation of technical reports and presentations.
+- **GitHub page:**
+  [cooperrc/cooper-blank-course](https://github.com/cooperrc/cooper-blank-course)
+- **ME3255 - Discussions**: [GitHub
+  Discussion](https://github.com/cooperrc/cooper-blank-course/discussions)
+
+**Course Description**: 
 
 ## Course Objectives:
 
 By the end of this course, students will be able to:
 
-1. **Create Visualizations of Data:**
-    - Generate effective and informative visual representations of engineering data using appropriate tools (e.g., Excel, Python, or MATLAB)
-    - Select the suitable visualizations e.g. plots, bar charts, scatter
-     plots, histograms, contour for different data sets and
-     communication purposes
-
-2. **Explain the Importance of Graphs and Visualizations in a Technical Document:**
-    - Explain the significance of graphs and visualizations to describe technical information
-    - Use graphics to enhance the clarity and impact of technical documents
-
-3. **Edit and Improve Work to Maintain Active Voice and Concise Writing:**
-    - Identify and revise passive voice constructions in technical writing 
-    - Improve technical documents for conciseness by eliminating unnecessary words and redundancies
-    - Proof read work to identify and improve technical communications
-    - Peer review and provide constructive feedback
-
-2. **Analyze Technical Audiences for Engineering Communication:**
-    - Identify and analyze the needs and expectations of different technical audiences 
-    - Edit technical writing to communicate with technical audiences
-   
-4. **Probability Modeling:**
-    - Explain the principles and applications of Monte Carlo simulation in data-driven decision-making
-    - Develop probabilistic models for real-world scenarios
-    - Apply probability concepts to quantify uncertainty
-  
-5. **Monte Carlo Simulation:**
-    - Create Monte Carlo simulations using software tools (e.g., Python, R) to analyze complex systems and scenarios
-    - Interpret and communicate the results of Monte Carlo simulations
-6. **Statistical Analysis:**
-    - Perform statistical analysis of simulation data to extract meaningful insights
-    - Present statistical findings clearly and concisely
-
 ## Course Information
-__Course Title:__ ME3256 - Data Driven Decisions: Monte Carlo Analysis for Technical Communications
+__Course Title:__
 
-__Format:__ Online
+__Format:__ 
 
 __Instructor__: Prof. Ryan C. Cooper __<ryan.c.cooper@uconn.edu>__
 
-**Prerequisites**: Basic understanding of probability and statistics is
-recommended. Familiarity with programming languages such as Python or R is
-beneficial but not required. Example code and resources will be distributed and
-discussed.
+**Prerequisites**: 
 
 __Office Hours/Availability:__ by appointment
 <https://cooperrc.github.io>
@@ -66,29 +29,8 @@ __Preferred Contact:__ Post questions and comments to
 [Discussions](https://github.com/cooperrc/data-driven-decisions/discussions)
 
 ## Assessment Methods:
-1. **Written Assignments:** Prepare three 500-word technical documents with one visualization each
-2. **Technical Report:** Present a Monte Carlo solution to an engineering problem in a 3000-word technical report
-4. **Peer Review and Feedback:** Evaluate peers' technical communication, specifically revisions on the main technical report project
-5. **Online Discussions:** Actively participate in online discussions and revisions
 
 ## Grading Policy:
-- Written Assignments: 30%
-- Technical Report: 30%
-- Online Discussions and Participation: 20%
-- Peer Review: 20%
-
-**Note on Written assignments:** Each written assignment will ask you to
-explain a technical result to a given audience. You will get comments on the
-assignment and a current grade. You can increase your grade by addressing the
-comments and resubmitting the work.
-
-**Note on Technical Report:** The project is a longer technical document for other
-entry-level engineers. You will be asked to outline the report and share your
-proposed figures and images that will help communicate your findings throughout
-the course. You should plan to give and receive feedback on each stage of the writing process: 
-- outline
-- first draft
-- final draft
 
 ## Academic Integrity: 
 - The instructors of this class have a zero-tolerance policy for academic misconduct, that
@@ -102,22 +44,9 @@ the course. You should plan to give and receive feedback on each stage of the wr
 
 ## Required Resources
 
-- Stevens. (2022). [Monte-Carlo Simulation An Introduction for Engineers and Scientists](https://uconn-storrs.primo.exlibrisgroup.com/permalink/01UCT_STORRS/1s3ubib/alma99429787447602432). Taylor & Francis Group
-- Gross *et al.* (2017). [Technical Writing](https://openoregon.pressbooks.pub/technicalwriting/). Open Oregon Educational Resources. 
 
 ## Minimum Technical Skills: 
 
-- Ability to follow coding tutorials
-
-- Comfortable executing code in a prompt
-
-- Comfortable working in a web browser
-
-- Draw free body diagram and write equations of motion
-
-- Draw a control volume and write conservation of energy equations
-
-- Take derivatives and integrals of functions
 
 ## Grading Scale
 
@@ -207,11 +136,6 @@ or <http://csd.uconn.edu/>.
 The software/technical requirements for this course include:
 
 * Modern, up-to-date web browser e.g. [Chrome](https://www.google.com/chrome/), [Firefox](https://www.mozilla.org/en-US/), [Safari (Mac OS)](https://www.apple.com/safari/), or [Microsoft Edge](https://www.microsoft.com/en-us/edge)
-* HuskyCT
-* Adobe Acrobat Reader (Adobe Reader Accessibility Statement, Adobe Reader Privacy Policy)
-* Google Apps ([Google Apps Accessibility](https://www.google.com/accessibility/), [Google for Education Privacy Policy](https://www.google.com/edu/trust/)
-* Dedicated access to high-speed internet with a minimum speed of 1.5 Mbps (4 Mbps or higher is recommended).
-* [JupyterHub at compmech.uconn.edu](https://compmech.uconn.edu)
 
 __NOTE:__ This course was not tested or designed for mobile devices. 
 
