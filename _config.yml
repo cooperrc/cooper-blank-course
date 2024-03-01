@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Computational Mechanics
+title: Blank Course Book
 author: "<a href = https://cooperrc.github.io> Ryan C. Cooper</a>"
 #logo: comp-mech-logo.svg
 
@@ -20,7 +20,6 @@ parse:
     - replacements
     - smartquotes
     - substitution
-    - tasklist
   myst_dmath_double_inline: true
 
 
@@ -33,9 +32,9 @@ latex:
 launch_buttons:
   notebook_interface        : "classic"  # The interface interactive links will activate ["classic", "jupyterlab"]
   binderhub_url             : https://mybinder.org  # The URL of the BinderHub (e.g., https://mybinder.org)
-  jupyterhub_url            : https://compmech.uconn.edu  # The URL of the JupyterHub (e.g., https://datahub.berkeley.edu)
+  jupyterhub_url            : #https://compmech.uconn.edu  # The URL of the JupyterHub (e.g., https://datahub.berkeley.edu)
   thebe                     : false  # Add a thebe button to pages (requires the repository to run on Binder)
-  colab_url                 : "" # The URL of Google Colab (https://colab.research.google.com)
+  colab_url                 : "https://colab.research.google.com" # The URL of Google Colab (https://colab.research.google.com)
 
 # Information about where the book exists on the web
 repository:
@@ -46,7 +45,7 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  favicon: images/spiderman-favicon.png
+  favicon: spiderman-favicon.png
   use_issues_button: true
   use_repository_button: true
 

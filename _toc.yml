@@ -7,6 +7,5 @@ chapters:
 - file: syllabus
 - file: module_01/README
   sections:
-    - file: module_01/README
     - file: module_01/hello
 
